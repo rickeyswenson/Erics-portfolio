@@ -104,9 +104,9 @@ Projects
     text-align: center;
 }
 
-#project .card img{
+#project .card img {
     width: 100%;
-
+    border-radius: 4px;
 }
 
 #project .card-title{
